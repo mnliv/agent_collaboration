@@ -1,0 +1,9 @@
+mcp[cli]>=1.9.2
+pytest>=7.0.0
+pytest-asyncio>=1.0.0
+pytest-cov>=4.0.0
+pytest-mock>=3.10.0
+langchain-community
+langchain-openai
+langgraph-cli[inmem]
+a2a-sdk
